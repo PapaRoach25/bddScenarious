@@ -1,0 +1,7 @@
+C:\Users\Oleh_Koren\source\repos\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.exe.config
+C:\Users\Oleh_Koren\source\repos\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.exe
+C:\Users\Oleh_Koren\source\repos\UnitTestApp\UnitTestApp\bin\Debug\UnitTestApp.pdb
+C:\Users\Oleh_Koren\source\repos\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.csprojAssemblyReference.cache
+C:\Users\Oleh_Koren\source\repos\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Oleh_Koren\source\repos\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.exe
+C:\Users\Oleh_Koren\source\repos\UnitTestApp\UnitTestApp\obj\Debug\UnitTestApp.pdb
